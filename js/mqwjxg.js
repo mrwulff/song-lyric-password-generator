@@ -305,7 +305,7 @@ I got that summertime summertime summertime sadness
 Su-su-summertime, summertime sadness
 Got that summertime, summertime sadness oh oh
 `.formatLyrics();
-lyrics.eleanoreRigby = `
+lyrics.eleanoreRigby2= `
 An only child alone and wild, a cabinet maker's son
 His hands were meant for different work
 And his heart was known to none
@@ -334,41 +334,34 @@ I'm just a living legacy to the leader of the band
 I am a living legacy to the leader of the band
 
 `.formatLyrics();
-lyrics.eleanorRigby2 = `
-Ah look at all the lonely people
-Ah look at all the lonely people
-Eleanor Rigby, picks up the rice
-In the church where a wedding has been
-Lives in a dream
-Waits at the window, wearing the face
-That she keeps in a jar by the door
-Who is it for
-All the lonely people
-Where do they all come from?
-All the lonely people
-Where do they all belong?
-Father McKenzie, writing the words
-Of a sermon that no one will hear
-No one comes near
-Look at him working, darning his socks
-In the night when there's nobody there
-What does he care
-All the lonely people
-Where do they all come from?
-All the lonely people
-Where do they all belong?
-Ah look at all the lonely people
-Ah look at all the lonely people
-Eleanor Rigby, died in the church
-And was buried along with her name
-Nobody came
-Father McKenzie, wiping the dirt
-From his hands as he walks from the grave
-No one was saved
-All the lonely people
-Where do they all come from?
-All the lonely people
-Where do they all belong?
+lyrics.eleanorRigby = `
+An only child alone and wild, a cabinet maker's son
+His hands were meant for different work
+And his heart was known to none
+He left his home and went his lone and solitary way
+And he gave to me a gift I know I never can repay
+A quiet man of music denied a simpler fate
+He tried to be a soldier once, but his music wouldn't wait
+He earned his love through discipline, a thundering velvet hand
+His gentle means of sculpting souls took me years to understand
+The leader of the band is tired and his eyes are growing old
+But his blood runs through my instrument and his song is in my soul
+My life has been a poor attempt to imitate the man
+I'm just a living legacy to the leader of the band
+My brother's lives were different for they heard another call
+One went to Chicago and the other to St Paul
+And I'm in Colorado when I'm not in some hotel
+Living out this life I've chose and come to know so well
+I thank you for the music and your stories of the road
+I thank you for the freedom when it came my time to go
+I thank you for the kindness and the times when you got tough
+And papa, I don't think I said I love you near enough
+The leader of the band is tired and his eyes are growing old
+But his blood runs through my instrument and his song is in my soul
+My life has been a poor attempt to imitate the man
+I'm just a living legacy to the leader of the band
+I am a living legacy to the leader of the band
+
 `.formatLyrics();
 
 console.log(lyrics);
