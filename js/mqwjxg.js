@@ -305,7 +305,7 @@ I got that summertime summertime summertime sadness
 Su-su-summertime, summertime sadness
 Got that summertime, summertime sadness oh oh
 `.formatLyrics();
-lyrics.leader=`
+lyrics.leader = `
 An only child alone and wild, a cabinet maker's son
 His hands were meant for different work
 And his heart was known to none
@@ -332,6 +332,7 @@ But his blood runs through my instrument and his song is in my soul
 My life has been a poor attempt to imitate the man
 I'm just a living legacy to the leader of the band
 I am a living legacy to the leader of the band
+
 `.formatLyrics();
 lyrics.eleanorRigby = `
 Ah look at all the lonely people
