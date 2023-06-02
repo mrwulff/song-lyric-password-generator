@@ -342,7 +342,7 @@ He left his home and went his lone and solitary way
 And he gave to me a gift I know I never can repay
 A quiet man of music denied a simpler fate
 He tried to be a soldier once, but his music wouldn't wait
-He earned his love through discipline, a thundering velvet hand
+222He earned his love through discipline, a thundering velvet hand
 His gentle means of sculpting souls took me years to understand
 The leader of the band is tired and his eyes are growing old
 But his blood runs through my instrument and his song is in my soul
