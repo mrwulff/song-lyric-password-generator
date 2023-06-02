@@ -263,47 +263,34 @@ const lyrics = {
 };
 
 lyrics.summerTimeSadness = `
-I got my red dress on tonight
-Dancin' in the dark in the pale moonlight
-Done my hair up real big, beauty queen style
-High heels off, I'm feelin' alive
-Oh my God, I feel it in the air
-Telephone wires above
-Are sizzlin' like a snare
-Honey I'm on fire, I feel it everywhere
-Nothin' scares me anymore
-Kiss me hard before you go
-Summertime sadness
-I just wanted you to know
-That baby, you the best
-I got that summertime, summertime sadness
-Su-su-summertime, summertime sadness
-Got that summertime, summertime sadness oh oh
-I got that summertime, I got that summertime summertime sadness
-I'm feelin' electric tonight
-Cruisin' down the coast, goin' about 99
-Got my bad baby by my heavenly side
-I know if I go, I'll die happy tonight
-Oh my God, I feel it in the air
-Telephone wires above
-Are sizzlin' like a snare
-Honey I'm on fire, I feel it everywhere
-Nothin' scares me anymore
-Kiss me hard before you go
-Summertime sadness
-I just wanted you to know
-That baby, you the best
-I got that summertime, summertime sadness
-Su-su-summertime, summertime sadness
-Got that summertime, summertime sadness oh oh
-I got that summertime
-I got that summertime summertime summertime sadness
-Su-su-summertime, summertime sadness
-Got that summertime, summertime sadness oh oh
-Got that summertime
-I got that summertime summertime summertime sadness
-Su-su-summertime, summertime sadness
-Got that summertime, summertime sadness oh oh
+Here comes the sun, doo-doo-doo-doo
+Here comes the sun, and I say
+It's alright
+Little darlin', it's been a long, cold, lonely winter
+Little darlin', it feels like years since it's been here
+Here comes the sun, doo-doo-doo-doo
+Here comes the sun, and I say
+It's alright
+Little darlin', the smile's returning to their faces
+Little darlin', it seems like years since it's been here
+Here comes the sun
+Here comes the sun, and I say
+It's alright
+Sun, sun, sun, here it comes
+Sun, sun, sun, here it comes
+Sun, sun, sun, here it comes
+Sun, sun, sun, here it comes
+Sun, sun, sun, here it comes
+Little darlin', I feel that ice is slowly melting
+Little darlin', it seems like years since it's been clear
+Here comes the sun, doo-doo-doo-doo
+Here comes the sun, and I say
+It's alright
+Here comes the sun, doo-doo-doo-doo
+Here comes the sun
+It's alright
+It's alright
+
 `.formatLyrics();
 lyrics.eleanoreRigby2= `
 An only child alone and wild, a cabinet maker's son
